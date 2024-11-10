@@ -1,32 +1,35 @@
-Gunshop React
-This is a Gunshop React application built using React.js to manage and display products in a gunshop. It allows users to view different products, explore details, and more.
+# Gunshop React
 
-Features
-Display a list of products.
-Each product has detailed information.
-Implemented with React for dynamic user interaction.
-Installation
-Clone the repository:
+This is a **Gunshop React** application built using React.js for managing and displaying products in a gunshop. It allows users to view products and explore detailed information.
 
-bash
-Copy code
-git clone https://github.com/akhilkarth/Gunshop-react.git
-Navigate to the project directory:
+## Features
+- Display a list of products.
+- Each product has detailed information.
+- Dynamic UI with React.js for user interaction.
 
-bash
-Copy code
-cd Gunshop-react
-Install the dependencies:
+## Installation
 
-bash
-Copy code
-npm install
-Start the development server:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/akhilkarth/Gunshop-react.git
+   ```
 
-bash
-Copy code
-npm start
-Technologies Used
-React.js
-JavaScript
-HTML & CSS
+2. Navigate to the project directory:
+   ```bash
+   cd Gunshop-react
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+## Technologies Used
+- React.js
+- JavaScript
+- HTML & CSS
